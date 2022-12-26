@@ -1,0 +1,6 @@
+ru/netology/delivery/data/DataGenerator.java
+ ru.netology.delivery.data.DataGenerator
+ ru.netology.delivery.data.DataGenerator$Registration
+ ru.netology.delivery.data.DataGenerator$UserInfo
+ru/netology/delivery/test/DeliveryTest.java
+ ru.netology.delivery.test.DeliveryTest

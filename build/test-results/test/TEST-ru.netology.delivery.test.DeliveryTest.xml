@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.delivery.test.DeliveryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-26T15:53:44" hostname="W-MSC-186" time="11.778">
+  <properties/>
+  <testcase name="shouldSuccessfulPlanAndReplanMeeting()" classname="ru.netology.delivery.test.DeliveryTest" time="11.778"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 26651
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+дек. 26, 2022 6:53:50 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 107
+]]></system-err>
+</testsuite>
